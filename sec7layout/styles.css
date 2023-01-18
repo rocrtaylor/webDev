@@ -71,6 +71,7 @@
 
 .destination {
   margin: 0 20px;
+  /*  make different pictures the same size */
   flex: 1;
   text-transform: uppercase;
 }
